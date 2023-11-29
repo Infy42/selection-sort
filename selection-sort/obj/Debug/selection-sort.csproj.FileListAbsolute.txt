@@ -1,0 +1,7 @@
+C:\Users\misa\source\repos\selection-sort\selection-sort\bin\Debug\selection-sort.exe.config
+C:\Users\misa\source\repos\selection-sort\selection-sort\bin\Debug\selection-sort.exe
+C:\Users\misa\source\repos\selection-sort\selection-sort\bin\Debug\selection-sort.pdb
+C:\Users\misa\source\repos\selection-sort\selection-sort\obj\Debug\selection-sort.csproj.AssemblyReference.cache
+C:\Users\misa\source\repos\selection-sort\selection-sort\obj\Debug\selection-sort.csproj.CoreCompileInputs.cache
+C:\Users\misa\source\repos\selection-sort\selection-sort\obj\Debug\selection-sort.exe
+C:\Users\misa\source\repos\selection-sort\selection-sort\obj\Debug\selection-sort.pdb
